@@ -5,4 +5,4 @@
 # Создание
 
 > Для создания нового объекта типа Date используется один из синтаксисов:
-> ![Tux, the Linux mascot](/assets/images/Screenshot_3.png)
+> (/assets/images/Screenshot_3.png)
