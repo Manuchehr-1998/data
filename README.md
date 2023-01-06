@@ -19,9 +19,7 @@ getDate()
 Получить число месяца, от 1 до 31.
 getHours(), getMinutes(), getSeconds(), getMilliseconds()
 
-> [![N|Solid](Screenshot_1.png)
 > [![N|Solid](Screenshot_2.png)
 > [![N|Solid](Screenshot_3.png)
 > [![N|Solid](Screenshot_4.png)
 > [![N|Solid](Screenshot_5.png)
-> [![N|Solid](Screenshot_6.png)
